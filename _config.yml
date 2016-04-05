@@ -1,0 +1,28 @@
+name: otterandhat
+favicon: null
+layout_spectrum: 0.42921353853307664
+typography_spectrum: 0.6217521021608263
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.26837764657102525
+  lightness: 0.910678886808455
+  saturation: 0.5449658876750618
+  rhythmicContrast: 0.7421732775401324
+purpose: []
